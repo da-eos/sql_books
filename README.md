@@ -54,7 +54,8 @@
 
 `text` — текст обзора.
 
-![image.png](attachment:image.png)
+
+<img src="https://i.ibb.co/0ZzPn1C/123.png">
 
 
 ## Задачи для исследования:
